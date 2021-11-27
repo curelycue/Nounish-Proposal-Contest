@@ -1,4 +1,4 @@
-# Nounish-Proposal-Contest - “is your idea nounish enough?”
+# Nounish Proposal Contest - “is your idea nounish enough?”
 
 
 
