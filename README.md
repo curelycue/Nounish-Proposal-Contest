@@ -2,8 +2,6 @@
 
 
 
-Introduction: 
-
 An alternative proposal system. Though experimental, it could bring about the boost in creativity the DAO thirsts for.
 
 The Nounish Proposal Contest is a competition for the most nounish idea. It is coupled with an airdrop acting as a filtration system and a trustless mechanism for bootstrapping new instances. 
